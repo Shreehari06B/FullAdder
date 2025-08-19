@@ -1,11 +1,11 @@
 
 # Full Adder - Logic Circuit Project
 
-A Full Adder is a basic combinational circuit in electronics. It adds three binary inputs and produces:
+A **Full Adder** is a basic combinational circuit in electronics. It adds three binary inputs and produces:
 
-Sum ()
+- Sum ()
 
-Carry ()
+- Carry ()
 
 
 This project was created using Logic Circuit Simulator Pro on Android.
