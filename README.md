@@ -3,14 +3,14 @@
 
 A **Full Adder** is a basic combinational circuit in electronics. It adds three binary inputs and produces:
 
-- Sum ()
+- **Sum** ()
 
-- Carry ()
+- **Carry** ()
 
 
-This project was created using Logic Circuit Simulator Pro on Android.
+This project was created using **Logic Circuit Simulator Pro** on Android.
 
-Truth Table - Full Adder
+# Truth Table - Full Adder
 
 A	B	Cin	Sum (A ⊕ B ⊕ Cin)	Carry (A·B + Cin·(A⊕B))
 
