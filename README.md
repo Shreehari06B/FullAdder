@@ -10,7 +10,8 @@ A **Full Adder** is a basic combinational circuit in electronics. It adds three 
 
 This project was created using **Logic Circuit Simulator Pro** on Android.
 
-# Truth Table - Full Adder
+## 🧮 Truth Table - Full Adder
+
 
 A	B	Cin	Sum (A ⊕ B ⊕ Cin)	Carry (A·B + Cin·(A⊕B))
 
