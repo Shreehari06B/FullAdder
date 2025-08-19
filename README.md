@@ -3,9 +3,9 @@
 
 A **Full Adder** is a basic combinational circuit in electronics. It adds three binary inputs and produces:
 
-- **Sum** ()
+- **Sum** (A ⊕ B ⊕ Cin)
 
-- **Carry** ()
+- **Carry** (A·B + Cin·(A⊕B))
 
 
 This project was created using **Logic Circuit Simulator Pro** on Android.
